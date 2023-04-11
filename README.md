@@ -7,4 +7,4 @@ here link bot works
 
 https://t.me/lokbots
 
-https:/lokbot.org
+https://lokbot.org
